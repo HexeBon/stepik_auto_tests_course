@@ -1,2 +1,4 @@
-# stepik_auto_tests_course
-Учусь писать автотесты на Python
+# stepik\_auto\_tests\_course
+
+Учусь писать автотесты на Python на курсе https://stepik.org/course/575
+
