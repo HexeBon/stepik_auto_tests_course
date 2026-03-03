@@ -9,5 +9,5 @@ def test_select(browser):
     page.click_submit()
 
     text = page.accept_alert()
-    assert "28" in text, "NO"
+    assert "28" in text, "Invalid number"
     print(text)
